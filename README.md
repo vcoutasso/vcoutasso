@@ -4,10 +4,11 @@ I'm a 22-year-old Electronic Engineering student from Brazil. Currently, my main
 
 You can find out more about me on my personal [website](https://vcoutasso.com).
 
-<div style="display: flex">
+<div>
   <a href="https://vcoutasso.com">
-  <div><img src="https://github-readme-stats.vercel.app/api?username=vcoutasso&count_private=true&show_icons=true&theme=onedark"></div>
-  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcoutasso&layout=compact&theme=onedark&langs_count=6&exclude_repo=reading-notes,vcoutasso.github.io"></div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vcoutasso&count_private=true&show_icons=true&theme=onedark">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcoutasso&layout=compact&theme=onedark&langs_count=6&exclude_repo=reading-notes,vcoutasso.github.io">
+  </a>
 </div>
 
 <div style="display: inline_block">
