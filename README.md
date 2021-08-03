@@ -6,8 +6,8 @@ You can find out more about me on my personal [website](https://vcoutasso.com).
 
 <div>
   <a href="https://vcoutasso.com">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vcoutasso&count_private=true&show_icons=true&theme=onedark">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcoutasso&layout=compact&theme=onedark&langs_count=6&exclude_repo=reading-notes,vcoutasso.github.io">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vcoutasso&count_private=true&show_icons=true&theme=onedark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcoutasso&layout=compact&theme=onedark&langs_count=6&exclude_repo=reading-notes,vcoutasso.github.io">
   </a>
 </div>
 
