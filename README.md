@@ -2,7 +2,9 @@
 
 I'm a 23-year-old Electronic Engineering student from Brazil and a proud Apple Developer Academy student.
 
-My main interests involve programming, computational intelligence, and electronics.
+I'm currently most interested in iOS development and computational intelligence.
+
+I occasionally do some electronics and coding challenges for fun (:
 
 You can find out more about me on my personal [website](https://vcoutasso.com).
 
