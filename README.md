@@ -11,7 +11,7 @@ You can find out more about me on my personal [website](https://vcoutasso.com).
 <div>
   <a href="https://vcoutasso.com">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vcoutasso&show_icons=true&theme=onedark&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcoutasso&layout=compact&theme=onedark&langs_count=6&exclude_repo=reading-notes,vcoutasso.github.io,CPGEI&hide=Jupyter Notebook">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcoutasso&layout=compact&theme=onedark&langs_count=6&exclude_repo=reading-notes,vcoutasso.github.io,CPGEI&hide=Jupyter%20Notebook">
   </a>
 </div>
 
