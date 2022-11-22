@@ -6,8 +6,6 @@ I'm currently most interested in iOS development and computational intelligence.
 
 I occasionally do some electronics and coding challenges for fun (:
 
-You can find out more about me on my personal [website](https://vcoutasso.com).
-
 <div>
   <a href="https://vcoutasso.com">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vcoutasso&show_icons=true&theme=onedark&count_private=true">
