@@ -19,6 +19,7 @@ I occasionally do some electronics and coding challenges for fun (:
   <img align="center" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+  <img align="center" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/develop/icons/apl/apl-original.svg">
   <img align="center" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
   <img align="center" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
