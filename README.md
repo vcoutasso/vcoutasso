@@ -1,10 +1,10 @@
 ### Oh hello there 👋
 
-I'm a 23-year-old Electronic Engineering student from Brazil and a proud Apple Developer Academy student.
+I'm a 24-year-old Electronic Engineering student from Brazil and a proud Apple Developer Academy alumni.
 
-I'm currently most interested in iOS development and computational intelligence.
+I'm currently most interested in iOS and macOS development, cybersecurity and computational intelligence.
 
-I occasionally do some electronics and coding challenges for fun (:
+I occasionally do some electronics and coding challenges in different languages for fun (:
 
 <div>
   <a href="https://vcoutasso.com">
