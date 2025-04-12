@@ -1,6 +1,6 @@
 ### Oh hello there 👋
 
-I'm a 25-year-old Electronic Engineering student from Brazil and a proud Apple Developer Academy alumni.
+I'm a 26-year-old Electronic Engineering student from Brazil and a proud Apple Developer Academy alumni.
 
 I'm currently most interested in iOS and macOS development, cybersecurity and computational intelligence.
 
